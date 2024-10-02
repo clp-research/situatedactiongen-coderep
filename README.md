@@ -1,1 +1,1 @@
-# situatedactiongen-coderep
+The 'data' folder contains the transformed pseudo-code that represents the Builder's actions.
